@@ -1,0 +1,4 @@
+repository "SoftShadowMapping@decentralized_ysy-icloud-com@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
